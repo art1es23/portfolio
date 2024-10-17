@@ -1,0 +1,21 @@
+{
+    "bundles": [
+        {
+            "name": "home-screen",
+            "assets": [
+                {
+                    "alias": "background",
+                    "src": "src/assets/pixel/bg-home.png"
+                },
+                {
+                    "alias": "character",
+                    "src": "src/assets/wiz_def_pixel.png"
+                },
+                {
+                    "alias": "signboard",
+                    "src": "src/assets/pixel/signboard-pixel.png"
+                }
+            ]
+        }
+    ]
+}
